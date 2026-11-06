@@ -1,0 +1,17 @@
+﻿configuration,dataset,BoundaryIoU_0_5
+single__seed3407,camo,0.4391041816691816
+single__seed3407,chameleon,0.5710283751266828
+single__seed3407,cod10k,0.4925148118458082
+single__seed3407,nc4k,0.5121510853741716
+native_conv__mean__seed3407,camo,0.4426371306034564
+native_conv__mean__seed3407,chameleon,0.5638712058646749
+native_conv__mean__seed3407,cod10k,0.4920463837953725
+native_conv__mean__seed3407,nc4k,0.5119885030841625
+projection__mean__seed3407,camo,0.44278422290266184
+projection__mean__seed3407,chameleon,0.571609267833577
+projection__mean__seed3407,cod10k,0.4935553572818002
+projection__mean__seed3407,nc4k,0.5129134613308125
+image_pyramid__mean__seed3407,camo,0.44441213878564273
+image_pyramid__mean__seed3407,chameleon,0.5554112509750412
+image_pyramid__mean__seed3407,cod10k,0.4901708570989119
+image_pyramid__mean__seed3407,nc4k,0.5053322037858209
